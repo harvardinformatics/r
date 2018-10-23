@@ -255,7 +255,7 @@ We start by loading the expression data and the metadata of each study.
 
 ```{r}
 
-ob.list <- list("zeisel", "romanov", "tasic", "marques")
+ob.list <- list("Zeisel", "Romanov", "Tasic", "Marques")
 
 #Load the expression and meta data of each study.
 
